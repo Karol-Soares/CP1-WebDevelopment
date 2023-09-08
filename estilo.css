@@ -15,3 +15,20 @@ h1{
     font-family: 'Roboto', sans-serif;
     background-color: #1f4a87;
 }
+
+p{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#imagem1{
+    width:400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
