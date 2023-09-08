@@ -26,6 +26,15 @@ p{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.flex{
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#imgtxt{
+    width: 50px;
+}
+
 #imagem1{
     width:400px;
     display: block;
